@@ -1,0 +1,22 @@
+
+{
+    "formName": "Login",
+  "fields": [
+    {
+      "name": "Name",
+      "label": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Email",
+      "label": "email",
+      "type": "email"
+    },
+    {
+      "name": "Password",
+      "label": "password",
+      "type": "password"
+    }
+  ]
+
+}
